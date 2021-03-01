@@ -1,0 +1,8 @@
+-c requirements.txt
+jupyter
+scipy
+matplotlib
+pytest
+pylint
+pyyaml
+pandas
